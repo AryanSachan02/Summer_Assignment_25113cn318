@@ -1,4 +1,5 @@
 //Write a program to Calculate sum of first N natural numbers.
+//Day-1 uploaded
 #include<iostream>
 using namespace std;
 int main()
